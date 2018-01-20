@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Apartment Management System
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rajshekhar
+Implementation-Vendor-Id: AMS
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://projects.spring.io/spring-boot/APARTMENT_MA
+ NAGEMENT_SYSTEM/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
